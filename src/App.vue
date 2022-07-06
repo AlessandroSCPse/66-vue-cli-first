@@ -23,14 +23,6 @@ export default {
 </script>
 
 <style lang="scss">
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-img {
-  width: 100%;
-  display: block;
-}
+@import './style/variables';
+@import './style/common';
 </style>

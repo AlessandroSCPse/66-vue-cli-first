@@ -20,6 +20,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
 section {
     height: 500px;
     position: relative;
@@ -38,4 +39,5 @@ img {
     transform: translate(-50%, -50%);
     color: white;
 }
+
 </style>
